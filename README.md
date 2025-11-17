@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows-0a7fff?logo=windows&logoColor=white">
   <img src="https://img.shields.io/github/v/release/valetzy25/Calculator-Kuchaev">
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red">
+  <img src="https://img.shields.io/badge/Protected-All%20Rights%20Reserved-critical">
 </p>
 
 <p align="center">
