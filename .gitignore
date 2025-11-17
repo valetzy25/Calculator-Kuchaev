@@ -1,19 +1,8 @@
-# PyInstaller output
 dist/
 build/
 *.spec
-
-# Byte-compiled / cache
 __pycache__/
 *.pyc
-
-# Virtual environments
+.vscode/
 venv/
 env/
-
-# VS Code settings
-.vscode/
-
-# OS files
-Thumbs.db
-.DS_Store
